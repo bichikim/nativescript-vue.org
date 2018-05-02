@@ -1,14 +1,18 @@
 ---
-title: Sample Tasks for the Playground
+제목: Playground를 위한 간단한 작업들
 contributors: [ikoevska]
 ---
 
 If you want to explore the [NativeScript Playground](https://play.nativescript.org?template=play-vue), you can start by creating a simple to-do app with the following requirements:
+[NativeScript Playground](https://play.nativescript.org?template=play-vue)를 방문하여 간단한 아래의 요건들의 to-do 앱 제작을 시작 할 수 있습니다.
 
 * Basic design
-  * Two-tab layout
-  * One tab shows active tasks and lets you add new tasks
-  * Second tab lists completed tasks
+* 기본 디자인 
+  * Two-tab layout
+  * 두가지 탭이 있는 레이하웃
+  * One tab shows active tasks and lets you add new tasks
+  * 첫번 
+  * Second tab lists completed tasks
 * (Coming soon) Basic functionality
   * (Coming soon) Add tasks: Users can add tasks as text
   * (Coming soon) View tasks
